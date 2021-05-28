@@ -7,6 +7,7 @@
 
 import UIKit
 import Flutter
+import SnapKit
 
 class ViewController: UIViewController {
     
